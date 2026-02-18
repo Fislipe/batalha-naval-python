@@ -3,7 +3,7 @@
 Este projeto consiste em uma simulação do jogo Batalha Naval desenvolvida em ambiente acadêmico no IFC. A aplicação foca na manipulação de matrizes e na lógica de validação de coordenadas em tempo real.
 
 ## Funcionamento do Sistema
-O jogo é operado via terminal e processa as jogadas através de um tabuleiro de 10x10 posições. O sistema gerencia o posicionamento de frotas e valida cada tentativa de ataque do usuário, atualizando o estado do campo de batalha a cada rodada.
+O jogo é operado via terminal e processa as jogadas através de um tabuleiro de 40x40 posições. O sistema gerencia o posicionamento de frotas e valida cada tentativa de ataque do usuário, atualizando o estado do campo de batalha a cada rodada.
 
 ## Características Técnicas
 - Linguagem: Python 3.x.
